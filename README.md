@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on on at SEFA/PA and SEBRAE/PA
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, REACT**
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, JAVA, REACT**
 
 - 📫 How to reach me **wanderrodrigues_@outlook.com**
 
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wander" height="20" width="20" /></a>
-<a href="https://fb.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="wander" height="20" width="20" /></a>
-<a href="https://instagram.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wander" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/wander-souza-9469831bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wander" height="20" width="20" /></a>
+<a href="https://www.facebook.com/wander.alisson/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="wander" height="20" width="20" /></a>
+<a href="https://www.instagram.com/wa_rodrigues_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wander" height="20" width="20" /></a>
 </p>
