@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on on at SEFA/PA and SEBRAE/PA
 
-- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
-
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, REACT**
 
 - 📫 How to reach me **wanderrodrigues_@outlook.com**
