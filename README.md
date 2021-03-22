@@ -4,13 +4,13 @@
 <h3 align="center">A Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wander27rodrigues" alt="wander" /> </p>
 
-- 🔭 I’m currently working on on at SEFA/PA and SEBRAE/PA
+- 🔭 I’m currently working on on at **SEFA/PA and SEBRAE/PA**
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, JAVA, REACT**
 
 - 📫 How to reach me **wanderrodrigues_@outlook.com**
 
-- ⚡ Fun fact **Oneye 😜**
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wander27rodrigues&show_icons=true" alt="wander"/> 
