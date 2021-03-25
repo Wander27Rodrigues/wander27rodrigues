@@ -24,7 +24,9 @@
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
 
 </p>
+
 ### CONTACT ME:
+
 <p align="center">
 <a href="https://www.linkedin.com/in/wander-souza-9469831bb/" target="blank"><img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wander"/></a>
 <a href="https://www.facebook.com/wander.alisson/" target="blank"><img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="wander"/></a>
