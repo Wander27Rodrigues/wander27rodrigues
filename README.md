@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/wander-souza-9469831bb/" target="blank"><img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wander"/></a>
-<a href="https://www.facebook.com/wander.alisson/" target="blank"><img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="wander"/></a>
-<a href="https://www.instagram.com/wa_rodrigues_/" target="blank"><img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wander"/></a>
+<a href="https://www.linkedin.com/in/wander-souza-9469831bb/" target="blank"><img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wander"/></a>
+<a href="https://www.facebook.com/wander.alisson/" target="blank"><img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="wander"/></a>
+<a href="https://www.instagram.com/wa_rodrigues_/" target="blank"><img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wander"/></a>
 </p>
