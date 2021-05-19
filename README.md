@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, JAVA, REACT**
 
-- 📫 How to reach me **https://happy-shirley-6b48b1.netlify.app/**
+- 📫 How to reach me * [**Wander27Rodrigues**](https://happy-shirley-6b48b1.netlify.app/)
 
 
 
