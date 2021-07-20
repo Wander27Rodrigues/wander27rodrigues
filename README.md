@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on on at **SEFA/PA**
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, JAVA,ANGULA, REACT**
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, JAVA, ANGULA and REACT**
 
 - 📫 How to reach me  [**@WanderRodrigues**](https://happy-shirley-6b48b1.netlify.app/)
 
