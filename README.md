@@ -21,7 +21,8 @@
   <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/git/git-original.svg">
   <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img width="30em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
-  <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img width="30em"src="https://img.icons8.com/color/144/000000/angularjs.png"/>
 
 ### CONTACT ME:
 
