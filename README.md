@@ -26,7 +26,7 @@
 ### CONTACT ME:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/wander-souza-9469831bb/" target="blank"><img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wander"/></a>
-<a href="https://www.facebook.com/wander.alisson/" target="blank"><img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="wander"/></a>
+<a href="https://www.linkedin.com/in/wander-souza-9469831bb/" target="blank"><img align="left" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wander"/></a>
+<a href="https://www.facebook.com/wander.alisson/" target="blank"><img align="left" width="50em" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="wander"/></a>
 <a href="https://www.instagram.com/wa_rodrigues_/" target="blank"><img align="left" width="100em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wander"/></a>
 </p>
