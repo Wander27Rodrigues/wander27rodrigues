@@ -4,7 +4,7 @@
 <h3 align="center">A Web Developer</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=wander27rodrigues" alt="wander"/></p>
 
-- 🔭 I’m currently working on on at **SEFA/PA**
+- 🔭 I’m currently working on at **SEFA/PA**
 
 - 📚 I’m currently learning **HTML, CSS, JAVASCRIPT, JAVA, ANGULA and REACT-NATIVE**
 
