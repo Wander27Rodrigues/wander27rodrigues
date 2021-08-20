@@ -8,7 +8,7 @@
 
 - 📚 I’m currently learning **JAVASCRIPT, JAVA, ANGULA and REACT-NATIVE**
 
-- 📫 How to reach me  [**@WanderRodrigues**](https://happy-shirley-6b48b1.netlify.app/)
+- 📫 How to reach me  [**@WanderRodrigues**](https://wander27rodrigues.github.io/)
 
 <div>
   <a href="https://github.com/wander27rodrigues">
