@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on at **SEFA/PA**
 
-- 📚 I’m currently learning **JAVASCRIPT, JAVA, ANGULA and REACT-NATIVE**
+- 📚 I’m currently learning **JAVA, ANGULA, JAVASCRIPT and REACT-NATIVE**
 
 - 📫 How to reach me  [**@WanderRodrigues**](https://wander27rodrigues.github.io/)
 
