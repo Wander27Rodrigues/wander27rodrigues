@@ -4,22 +4,11 @@
 <h3 align="center">A Web Developer</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=wander27rodrigues" alt="wander"/></p>
 
-const me = {
-name : 'Wander Souza',
-age : 23,
-education: 'computer engineering',
-job: 'Full Stack',
-company: 'SEFA/PA',
-site: '[**@WanderRodrigues**](https://wander27rodrigues.github.io/)',
-skills: [
-'Java',
-'Angular',
-'JavaScript',
-'React Native'
-]
-}
+- 🔭 I’m currently working on at **SEFA/PA**
 
+- 📚 I’m currently learning **JAVA, ANGULA, JAVASCRIPT, TYPESCRIPT and REACT-NATIVE**
 
+- 📫 How to reach me  [**@WanderRodrigues**](https://wander27rodrigues.github.io/)
 
 <div>
   <a href="https://github.com/wander27rodrigues">
