@@ -29,6 +29,6 @@
 
 <p align="left">Fale comigo:</p>
 <p align="left">
-<a href="https://www.linkedin.com/in/wander-souza-9469831bb/" target="blank"><img  width="10%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wander"/></a>
+<a href="www.linkedin.com/in/wanderodriguessouza" target="blank"><img  width="10%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wander"/></a>
 <a href="https://www.instagram.com/wa_rodrigues_/" target="blank"><img  width="11%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wander"/></a>
 </p>
