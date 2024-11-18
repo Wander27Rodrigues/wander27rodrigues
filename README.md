@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=wander27rodrigues" alt="wander"/></p>
 <h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Wander Rodrigues</h2>
-<p>estou na área desde 2019 sempre buscando melhorar o 1% a cada veja um pouco dessa historia em <a>https://wanderrodrigues.vercel.app/</a></p>
+<p>estou na área desde 2019 sempre buscando melhorar o 1% a cada veja um pouco dessa historia na minha <a href="https://wanderrodrigues.vercel.app/"target="blank">pagina</a></p>
 
 <p align="left">
   <a href="https://github.com/wander27rodrigues">
