@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=wander27rodrigues" alt="wander"/></p>
 <h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Wander Rodrigues</h2>
-<p>estou na área de desenvolvimente desde 2019 sempre buscando melhorar o 1% a cada, agindo com visão estratégica, inciativa e comprometimento unindo a habilidade relacional e interpessoal, sempre atuando com ética e com respeito as diferenças.</p>
+<p>estou na área desde 2019 sempre buscando melhorar o 1% a cada veja um pouco dessa historia em <a>https://wanderrodrigues.vercel.app/</a></p>
 
 <p align="left">
   <a href="https://github.com/wander27rodrigues">
