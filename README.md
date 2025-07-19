@@ -1,6 +1,19 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=wander27rodrigues" alt="wander"/></p>
-<h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Wander Rodrigues</h2>
-<p>estou na área desde 2019 sempre buscando melhorar o 1% a cada dia, veja um pouco dessa historia na minha <a href="https://wanderrodrigues.vercel.app/"target="blank">pagina</a></p>
+<h3>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Wander Souza</h2>
+<ul>
+  <li>Currently working as <strong>Technical Lead</strong></li>
+  <li>Expertise in:
+    <ul>
+      <li>Web development</li>
+      <li>Backend development</li>
+      <li>Cross-platform mobile development</li>
+      <li>Databases</li>
+    </ul>
+  </li>
+</ul>
+
+
+
 
 <p align="left">
   <a href="https://github.com/wander27rodrigues">
@@ -13,8 +26,6 @@
 <img   src="https://img.shields.io/badge/-java-red?style=flat-square&logo=java"/>
 <img   src="https://img.shields.io/badge/-JavaScript-black?style=flat-square-square&logo=javascript"/>
 <img   src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular"/>
-<img   src="https://img.shields.io/badge/-Eclpise-black?style=flat-square&logo=eclipse"/>   
-<img   src="https://img.shields.io/badge/-VisualStudioCode-blue?style=flat-square&logo=VisualStudioCode"/>
 <img   src="https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=Oracle"/>   
 <img   src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
 <img   src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
@@ -23,12 +34,8 @@
 <img   src="https://img.shields.io/badge/Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white">
 <img   src="https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=git&logoColor=white">
 <img   src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
-<img   src="https://aleen42.github.io/badges/src/photoshop.svg">
-<img   src="https://aleen42.github.io/badges/src/illustrator.svg">  
 </p>
 
-<p align="left">Fale comigo:</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/wanderodriguessouza" target="blank"><img  width="10%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wander"/></a>
-<a href="https://www.instagram.com/wa_rodrigues_/" target="blank"><img  width="11%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wander"/></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/wanderodriguessouza/" target="blank"><img  width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wander"/></a>
 </p>
