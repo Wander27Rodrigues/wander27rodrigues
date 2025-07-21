@@ -8,18 +8,6 @@
   - Cross-platform mobile development
   - Databases
 
-
-<br>
-
-## GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/wander27souza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wander27souza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wander27souza&layout=compact&langs_count=7&theme=react"/>
-</p>
-
-
 ## Technologies and languages
 
 [![My Skills](https://skillicons.dev/icons?i=java,angular,react,docker,jenkins,maven,typescript,js,sass)](https://skillicons.dev)
@@ -30,7 +18,7 @@
 ### Development Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode,idea,bash,postman,notion)](https://skillicons.dev)
 
-### Connect with me at:
+## Connect with me at:
 <p align="left"> 
   <a href="https://www.linkedin.com/in/wanderodriguessouza/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
@@ -48,6 +36,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=wander27souza&bg_color=0d1117&color=3fbfff&line=1e90ff&point=1e90ff&area=true&area_color=87cefa&hide_border=true" alt="Wander Souza github activity graph"/>
   </a>
 </div>
+
+<p align="center">
+  <a href="https://github.com/wander27souza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wander27souza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wander27souza&layout=compact&langs_count=7&theme=react"/>
+</p>
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e90ff,100:87cefa"/>
