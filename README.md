@@ -1,41 +1,55 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=wander27rodrigues" alt="wander"/></p>
-<h3>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Wander Souza</h2>
-<ul>
-  <li>Currently working as <strong>Technical Lead</strong></li>
-  <li>Expertise in:
-    <ul>
-      <li>Web development</li>
-      <li>Backend development</li>
-      <li>Cross-platform mobile development</li>
-      <li>Databases</li>
-    </ul>
-  </li>
-</ul>
+<h3>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wander Souza</h2>
+
+- Currently working as <strong>Technical Lead</strong>
+- Graduated in Computer Engineering
+- Expertise in:
+  - Backend development
+  - Web development
+  - Cross-platform mobile development
+  - Databases
 
 
+<br>
 
+## GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/wander27rodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wander27rodrigues&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wander27rodrigues&layout=compact&langs_count=7&theme=react"/>
-</p>
- <p align="left">
-<img   src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img   src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img   src="https://img.shields.io/badge/-java-red?style=flat-square&logo=java"/>
-<img   src="https://img.shields.io/badge/-JavaScript-black?style=flat-square-square&logo=javascript"/>
-<img   src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular"/>
-<img   src="https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=Oracle"/>   
-<img   src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-<img   src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-<img   src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-<img   src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-<img   src="https://img.shields.io/badge/Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white">
-<img   src="https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=git&logoColor=white">
-<img   src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
+  <a href="https://github.com/wander27souza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wander27souza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wander27souza&layout=compact&langs_count=7&theme=react"/>
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/wanderodriguessouza/" target="blank"><img  width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wander"/></a>
+
+## Technologies and languages
+
+[![My Skills](https://skillicons.dev/icons?i=java,angular,react,docker,jenkins,maven,typescript,js,sass)](https://skillicons.dev)
+
+### Frameworks and libraries
+[![My Skills](https://skillicons.dev/icons?i=react,spring,jest)](https://skillicons.dev)
+
+### Development Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode,idea,bash,postman,notion)](https://skillicons.dev)
+
+### Connect with me at:
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/wanderodriguessouza/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+  </a>
 </p>
+
+---
+
+<div align="center">
+  <p><img src="https://komarev.com/ghpvc/?username=wander27rodrigues" alt="wander"/></p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wander27souza&bg_color=0d1117&color=3fbfff&line=1e90ff&point=1e90ff&area=true&area_color=87cefa&hide_border=true" alt="Wander Souza github activity graph"/>
+  </a>
+</div>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e90ff,100:87cefa"/>
+
+
