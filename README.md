@@ -1,6 +1,6 @@
 <h3>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wander Souza</h2>
 
-- Currently working as <strong>Technical Lead</strong>
+- Currently working as <strong>Tech Lead</strong>
 - Graduated in Computer Engineering
 - Expertise in:
   - Backend development
